@@ -34,7 +34,6 @@ Or to run it locally:
 - Handling user input with `onclick` event handlers
 - Using `eval()` to compute mathematical expressions
 - Persisting data across page reloads with `localStorage`
-- Styling buttons with CSS (border-radius, colors, sizing)
 
 ## Built With
 
